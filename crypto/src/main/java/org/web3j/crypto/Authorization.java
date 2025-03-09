@@ -13,4 +13,5 @@ public class Authorization {
     private String yParity;
     private String s;
     private String r;
+
 }
